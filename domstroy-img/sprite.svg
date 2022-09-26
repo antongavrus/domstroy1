@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+    <symbol id="next" viewBox="0 0 70 70"  fill="none">
+        <circle cx="35" cy="35" r="34.5" stroke="#A5A5A5"/><path d="m33.637 27.273 6.95 7.384a.5.5 0 0 1 0 .686l-6.95 7.384" stroke="#fff" stroke-width="2" stroke-linecap="round"/>
+    </symbol>
+    <symbol id="arrow" viewBox="0 0 41 12"  fill="none">
+        <path d="M40.53 6.53a.75.75 0 0 0 0-1.06L35.757.697a.75.75 0 0 0-1.06 1.06L38.939 6l-4.242 4.243a.75.75 0 0 0 1.06 1.06L40.53 6.53ZM0 6.75h40v-1.5H0v1.5Z" fill="#000"/>
+    </symbol>
+    <symbol id="star" viewBox="0 0 22 22"  fill="none">
+        <path d="M10.81.585a.2.2 0 0 1 .38 0l2.46 7.569a.2.2 0 0 0 .19.138h7.957a.2.2 0 0 1 .118.362l-6.438 4.677a.2.2 0 0 0-.073.224l2.46 7.568a.2.2 0 0 1-.309.223l-6.437-4.677a.2.2 0 0 0-.236 0l-6.437 4.677a.2.2 0 0 1-.308-.223l2.459-7.568a.2.2 0 0 0-.073-.224L.085 8.654a.2.2 0 0 1 .118-.362H8.16a.2.2 0 0 0 .19-.138L10.81.585Z" fill="#FFC239"/>
+    </symbol>
+    <symbol id="slider" viewBox="0 0 28 75"  fill="none">
+        <path d="M32 3 4 40.5 32 78" stroke="#212864" stroke-opacity=".2" stroke-width="5" stroke-linecap="round"/>
+    </symbol>
+    <symbol id="burger" viewBox="0 0 34 20"  fill="none">
+        <path stroke="#353D83" stroke-width="2" stroke-linecap="round" d="M1 1h32M9 10h24M1 19h32"/>
+    </symbol>
+</svg>
+
+
